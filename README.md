@@ -1,2 +1,2 @@
 # HydroSense
-Projeto 2 - focado em dectectar o risco de enchentes.
+Projeto 2 - Focado em dectectar o risco de enchentes.
