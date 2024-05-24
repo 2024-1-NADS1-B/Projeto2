@@ -12,3 +12,10 @@
 
 ## Professores Orientadores: Rodnil da Silva</a>
 
+## Descrição
+
+<p align="center">
+<img src="file:///C:/Users/Remakker/Pictures/file.png alt= a logo esta escrito hydrosense e há uma gota de agua em forma de desenho que não foi usada."
+
+//Projeto focado em previnir e dectectar possivéis enchentes. Este projeto tem como intuito ajudar a população para evitar que destruições e tragédias como a do Rio Grande do Sul venham acontecer novamente. Nosso projeto tem um sensor de umidade e um alarme para alertar os moradores. Criamos uma configuração de luzes que mostram o nivel de perigo da altura da água. Há também um aplicativo que será acessivel para que todos entendam a gravidade das enchentes.
+
