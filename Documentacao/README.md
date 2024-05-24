@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://ibb.co/k27wJLB"><img src="https://i.ibb.co/MkvtfzS/file.jpg" alt="file" border="0"></a>
 
-**Projeto focado em previnir e dectectar possivéis enchentes.** 
+**Projeto focado em prevenir e detectar possíveis enchentes.** 
 Este projeto tem como intuito ajudar a população para evitar que destruições e tragédias como a do Rio Grande do Sul venham acontecer novamente. Nosso projeto tem um sensor de umidade e um alarme para alertar os moradores. Criamos uma configuração de luzes que mostram o nivel de perigo da altura da água. Há também um aplicativo que será acessivel para que todos entendam a gravidade das enchentes.
 
 May the force be with you!
