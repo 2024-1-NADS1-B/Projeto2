@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src= "https://pin.it/2Mcjig6sq](https://br.pinterest.com/pin/759841768410483290/">
+<img src= "blob:https://br.pinterest.com/07322b40-b4e2-441c-83d1-25fcdd2318f3">
 
 Projeto focado em previnir e dectectar possivéis enchentes. Este projeto tem como intuito ajudar a população para evitar que destruições e tragédias como a do Rio Grande do Sul venham acontecer novamente. Nosso projeto tem um sensor de umidade e um alarme para alertar os moradores. Criamos uma configuração de luzes que mostram o nivel de perigo da altura da água. Há também um aplicativo que será acessivel para que todos entendam a gravidade das enchentes.
 
