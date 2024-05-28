@@ -10,7 +10,7 @@
 
 ## Integrantes: Anderson Silva</a>, Andreia Alaini</a>, Angelo Vitorino</a>, Bruna Lira</a>, Matheus Antero</a>
 
-## Professores Orientadores: Rodnil da Silva</a>, Victor Rosset</a>
+## Professores Orientadores: Rodnil da Silva</a>, Victor Rosetti</a>
 
 ## Descrição
 
