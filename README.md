@@ -25,14 +25,16 @@ May the code be with you!
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
-|<br>
 |-->documentos<br>
   &emsp;|Template_-_Projetos_de_Extensão_Grupo2.pdf>
+  
 |-->imagens<br>
    &emsp;|-->Logo>
    &emsp;|-->file.png>
+   
 |-->src<br>
   &emsp;|-->Frontend<br>
+  
 |readme.md<br>
 ## 🛠 Instalação
 
